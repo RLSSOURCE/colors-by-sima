@@ -1,35 +1,73 @@
-# Colors by Sima
+# 🎨 ColorsBySima
 
-Digital coloring book project and Etsy storefront development.
+> *Digital designs with color, soul, and intention.*
 
-## Project Overview
+[![Etsy Shop](https://img.shields.io/badge/Shop-ColorsBySima-orange?style=for-the-badge&logo=etsy)](https://www.etsy.com/shop/ColorsBySima)
+[![By RLSSOURCE](https://img.shields.io/badge/By-RLSSOURCE-black?style=for-the-badge&logo=github)](https://github.com/RLSSOURCE)
 
-Created educational and printable coloring books for young children while building an online storefront and digital product workflow.
+---
 
-## Products Created
+## 🛍️ About the Shop
 
-- Dinosaur coloring books
-- Farm animal coloring books
-- Alphabet tracing books
-- Numbers learning books
-- Toys coloring books
-- Cars and trucks coloring books
+**ColorsBySima** is an Etsy shop offering digital design files — created with care and built to be used, shared, and loved.
 
-## Skills Used
+Whether you're looking for something to print, customize, or use as-is, every file is made with quality and creativity in mind.
 
-- Product design
-- Digital publishing
-- Canva design
-- Branding
-- Social media marketing
-- Etsy listing creation
-- Customer-focused product development
+🔗 **Shop link:** [etsy.com/shop/ColorsBySima](https://www.etsy.com/shop/ColorsBySima)
 
-## Storefront
+---
 
-Etsy Shop:
-https://colorsbysima.etsy.com
+## 📁 What's in This Repo
 
-## Goal
+This repository serves as the behind-the-scenes hub for ColorsBySima:
 
-Continue expanding digital products while improving design, marketing, and business skills.
+| Section | Purpose |
+|---|---|
+| 📦 `/assets` | Design files, mockups, and resources |
+| 📋 `/ideas` | Product ideas, inspiration, and brainstorming notes |
+| 📊 `/business` | Goals, tracking, and shop analytics notes |
+| 📝 `/listings` | Draft listing descriptions and product copy |
+
+---
+
+## 🎯 Shop Goals
+
+- [ ] Grow product catalog
+- [ ] Build consistent branding across all listings
+- [ ] Track best-selling designs
+- [ ] Explore new digital product categories
+- [ ] Connect shop to broader creative workflow
+
+---
+
+## 🛠️ Tools & Stack
+
+| Tool | Use |
+|---|---|
+| 🎨 Design software | Creating digital files |
+| 📊 Excel | Sales tracking & analytics |
+| 🐍 Python | Automating shop tasks (in progress) |
+| 🐙 GitHub | Version control & project management |
+
+---
+
+## 📈 Business Notes
+
+> Use this section to track shop milestones, wins, and lessons learned.
+
+- **Opened:** *(add date)*
+- **First sale:** *(add date)*
+- **Products listed:** *(update as you go)*
+
+---
+
+## 🔗 Connect
+
+- 🛍️ [Etsy Shop](https://www.etsy.com/shop/ColorsBySima)
+- 🐙 [GitHub — RLSSOURCE](https://github.com/RLSSOURCE)
+- 🌐 [scramblioapp.com](https://scramblioapp.com)
+- 🐦 [@StudioProz](https://x.com/sima_proz) on X
+
+---
+
+*Built with 🎨 and a 2026 mindset.*
